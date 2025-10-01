@@ -1,0 +1,17 @@
+Data Manipulation 
+ -> Cleaning, transforming & Structuring Data.
+Data Analysis - 
+ -> finding patterens, trends & insights
+
+
+Key features - 
+ -> works seamlessly with sturctured data formate(CSV&EXL)
+ -> handle missing values easlily 
+ -> build on numbpy for fast computation.
+
+Why use pandas 
+
+-> performance - million of raw effecently 
+-> easy to use
+-> Integration - works wiht other libraries(Matplotlib & Scikit learn)
+
